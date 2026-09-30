@@ -1,0 +1,8 @@
+Student 1: john (ID: 2552)
+ Average: 88,00, Best: maths (98), Lowest: lo (78), Performance: Excellent Performance.
+
+Class Performance Summary:
+   Excellent: 100,00% (1 students)
+   Average: 0,00% (0 students)
+   Poor: 0,00% (0 students)
+

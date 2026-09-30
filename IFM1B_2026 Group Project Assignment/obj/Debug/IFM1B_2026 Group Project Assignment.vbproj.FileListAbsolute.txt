@@ -1,0 +1,24 @@
+C:\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.exe.config
+C:\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.exe
+C:\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.pdb
+C:\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.xml
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.AssemblyReference.cache
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026_Group_Project_Assignment.frmStudentAcademicReport.resources
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026_Group_Project_Assignment.Resources.resources
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.GenerateResource.cache
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.CoreCompileInputs.cache
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.exe
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.xml
+C:\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.pdb
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.exe.config
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.exe
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.pdb
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\bin\Debug\IFM1B_2026 Group Project Assignment.xml
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.AssemblyReference.cache
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026_Group_Project_Assignment.frmStudentAcademicReport.resources
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026_Group_Project_Assignment.Resources.resources
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.GenerateResource.cache
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.exe
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.xml
+C:\Users\Cebolenkosi Mdlalose\Downloads\IFM1B_2026 Group Project Assignment\IFM1B_2026 Group Project Assignment\obj\Debug\IFM1B_2026 Group Project Assignment.pdb
